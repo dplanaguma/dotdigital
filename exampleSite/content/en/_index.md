@@ -10,7 +10,7 @@ header_logo: "images/logoincial.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Dot Digital Me"
-header_subheadline: "<b>Digital Marketing</b> Strategy & <b>Paid Media</b> CRM & Marketing Automation"
+header_subheadline: "<b>Digital Marketing</b>, <b>Paid Media & CRM & Marketing Automation</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
