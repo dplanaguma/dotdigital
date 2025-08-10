@@ -15,3 +15,4 @@ If `detailed_page_homepage_content` is set to true or is missing at all, the lin
 
 Want to see more about the details? See [dedicated page](legal) with more details or hit the button 'Legal' on the cover page.
 > **Note:** This section will no longer appear in the homepage or rightside navigation. Instead, a link to the legal information will be available in the site footer. Please update your site's footer template to include a link to the [Legal](/legal/) page.
+
