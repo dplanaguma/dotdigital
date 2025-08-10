@@ -6,11 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-## Nuestros Servicios
-
-Te ofrecemos una gama de servicios diseñados para cubrir tus necesidades.
-
-<{{< columns >}}
+{{< columns >}}
   {{< column >}}
     CONSULTING
     <p>I would run an audit to your website, paid media accounts, automated flows or any other help you may need and share with you feedback in a one to one call.</p>
