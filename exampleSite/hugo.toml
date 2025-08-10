@@ -78,23 +78,19 @@ enableEmoji = true
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
 
-    [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
+
 
     [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "dunia.digitalmarketer@gmail.com"
+        url = "mailto:dunia.digitalmarketer@gmail.com"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        label = "GitHub"
-        value = "github.com/zjedi/hugo-scroll"
-        url = "https://github.com/zjedi/hugo-scroll"
-        icon = "fa-brands fa-github"
+        label = "instagram"
+        value = "@dotdigitalme"
+        url = "https://www.instagram.com/dotdigital.me"
+        icon = "fa-brands fa-instagram"
 
     # Add additional contacts here!
     # [[params.contacts]]
