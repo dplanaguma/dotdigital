@@ -1,42 +1,40 @@
 ---
-title: "Mein Angebot"
+title: "Servicios"
 ---
 
-Das ist die deutsche Variante von meinem Angebot.
-
-It carries a lot more detail than what I put on the homepage - I swear!
-
-You want to know what I can do for you?
-
-Well, let me tell ya!
+{{< columns >}}
+    {{< column >}}
+        <strong>CONSULTORÍA</strong>
+        <ul>
+            <li>Auditoría integral de tu sitio web, cuentas de medios pagados, flujos automatizados u otras áreas donde necesites ayuda.</li>
+            <li>Análisis detallado e identificación de áreas de mejora.</li>
+            <li>Retroalimentación personalizada entregada en una llamada individual.</li>
+            <li>Recomendaciones prácticas adaptadas a los objetivos de tu negocio.</li>
+        </ul>
+        <p class="price">Desde 150€</p>
+    {{< /column >}}
+    {{< column >}}
+        <strong>CONSULTORÍA + IMPLEMENTACIÓN</strong>
+        <ul>
+            <li>Incluye todo lo de la Consultoría.</li>
+            <li>Implementación práctica de las recomendaciones y sugerencias proporcionadas.</li>
+            <li>Configuración técnica y ajustes según sea necesario.</li>
+            <li>Optimización de procesos y recursos existentes.</li>
+            <li>Actualizaciones de progreso y soporte durante la fase de implementación.</li>
+        </ul>
+        <p class="price">Desde 250€</p>
+    {{< /column >}}
+    {{< column >}}
+        <strong>PAQUETE COMPLETO</strong>
+        <ul>
+            <li>Incluye todas las características de Consultoría y Consultoría + Implementación.</li>
+            <li>Sesiones de seguimiento continuas para monitorear el progreso y los resultados.</li>
+            <li>Mejoras continuas y adaptación a nuevos requerimientos.</li>
+            <li>Identificación proactiva de nuevas oportunidades de crecimiento.</li>
+            <li>Alianza a largo plazo enfocada en el éxito de tu negocio.</li>
+        </ul>
+        <p class="price">Desde 350€</p>
+    {{< /column >}}
+{{< /columns >}}
 
 ---
-
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-<!-- Note how static images need to have leading slash from the dedicated pages -->
-
-![Nice picture to make you pay me ;-)](/images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
-
----
-
-## Chef Consulting
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](/images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](/images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
-
-Don't believe me? Here are some bullets
-
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better

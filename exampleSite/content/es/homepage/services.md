@@ -1,27 +1,28 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+---
+title: "Los Servicios que Ofrezco"
+header_menu_title: "Servicios"
+navigation_menu_title: "Mis Servicios"
 weight: 2
 header_menu: true
 ---
 
 {{< columns >}}
-  {{< column >}}
-    CONSULTING
-    <p>I would run an audit to your website, paid media accounts, automated flows or any other help you may need and share with you feedback in a one to one call.</p>
-    <p class="price">From 150€</p>
-  {{< /column >}}
-  {{< column >}}
-   CONSULTING + IMPLEMENTATION
-    <p>Everything included in the consulting service plus implementation of the feedback received.</p>
-    <p class="price">From 250€</p>
-  {{< /column >}}
-  {{< column >}}
-    FULL PACKAGE
-    <p>Everything stated in the previous two services plus follow up and improvements and new necessities. A long term relationship. </p>
-    <p class="price">From 350€</p>
-  {{< /column >}}
+    {{< column >}}
+        CONSULTORÍA
+        <p>Realizaré una auditoría de tu sitio web, cuentas de medios pagados, flujos automatizados o cualquier otra ayuda que necesites y compartiré contigo mis comentarios en una llamada individual.</p>
+        <p class="price">Desde 150€</p>
+    {{< /column >}}
+    {{< column >}}
+        CONSULTORÍA + IMPLEMENTACIÓN
+        <p>Todo lo incluido en el servicio de consultoría más la implementación de las recomendaciones recibidas.</p>
+        <p class="price">Desde 250€</p>
+    {{< /column >}}
+    {{< column >}}
+        PAQUETE COMPLETO
+        <p>Todo lo mencionado en los dos servicios anteriores más seguimiento, mejoras y nuevas necesidades. Una relación a largo plazo.</p>
+        <p class="price">Desde 350€</p>
+    {{< /column >}}
 {{< /columns >}}
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+¿Quieres saber más sobre mis servicios? Consulta la [página dedicada](services) para más detalles.
