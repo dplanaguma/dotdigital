@@ -8,10 +8,13 @@
     <section class="links">
       <ol>
       {{ range where $sections ".Params.footer_menu" "eq" true }}
-        <li>
-          <a href="{{ relLangURL .Params.detailed_page_path }}">{{ .Params.footer_menu_title }}</a>
-        </li>
+      <li>
+        <a href="{{ relLangURL .Params.detailed_page_path }}">{{ .Params.footer_menu_title }}</a>
+      </li>
       {{ end }}
+      <li>
+        <a href="{{ relLangURL "/legal/" }}">Legal</a>
+      </li>
       </ol>
     </section>
     <hr />
