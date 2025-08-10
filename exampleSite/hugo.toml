@@ -106,7 +106,7 @@ enableEmoji = true
     languageName = "English"
     contentDir = "content/en"
 
-  [languages.de]
+  [languages.sp]
     title = "Dot Digital Me - Paid Media, CRM y Marketing Automation"
     weight = 20
     contentDir = "content/sp"
