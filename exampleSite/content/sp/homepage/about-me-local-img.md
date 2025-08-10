@@ -1,17 +1,17 @@
 ---
-title: "Über mich (DE folder)"
+title: "COSITAS QUE NO ENTIENDO"
 weight: 3
 header_menu: true
 ---
 
-This demonstates localized content placed in dedicated language folder, `content/de`. This way you won't have to use localization suffix with the `.md` file. Both localisation approaches (separate folder, suffixes in the same folder) can be used and even mixed.
+This demonstates localized content placed in dedicated language folder, `content/sp`. This way you won't have to use localization suffix with the `.md` file. Both localisation approaches (separate folder, suffixes in the same folder) can be used and even mixed.
 
 See i18n configuration in `[languages]` section of `hugo.toml`.
 
 #### Local content
 
-Localised content can be put in dedicated folder `content/de/`. Images should be naturally found from there:
-![Image from content/de ](de-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+Localised content can be put in dedicated folder `content/sp/`. Images should be naturally found from there:
+![Image from content/sp ](de-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 #### Assets
 
