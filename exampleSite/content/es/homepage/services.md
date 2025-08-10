@@ -1,5 +1,4 @@
 ---
----
 title: "Los Servicios que Ofrezco"
 header_menu_title: "Servicios"
 navigation_menu_title: "Mis Servicios"
