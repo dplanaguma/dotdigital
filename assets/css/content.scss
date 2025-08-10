@@ -289,3 +289,33 @@ table {
     }
 }
 
+.row {
+  display: flex;
+  justify-content: space-between; /* Para distribuir el espacio entre los bloques */
+  gap: 20px; /* Espacio entre las columnas */
+}
+
+.column {
+  flex: 1; /* Para que todos los bloques tengan el mismo ancho */
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.service-block h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.service-block p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.service-block .price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
