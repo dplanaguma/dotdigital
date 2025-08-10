@@ -1,5 +1,5 @@
 ---
-title: "COSITAS QUE NO ENTIENDO"
+title: "ACERCA DE MI"
 weight: 3
 header_menu: true
 ---

@@ -1,91 +1,90 @@
 ---
-title: "The single page referenced to by the Legal button on the cover page"
----
-This file is a single page and is referenced by the button `Legal` on the cover start page.
+Este archivo es una página única y es referenciada por el botón `Legal` en la página de inicio de portada.
 
-It can contain more or additional information than the dedicated section on the homepage.
+Puede contener más o información adicional que la sección dedicada en la página principal.
 
-Privacy Policy
-Effective Date: August 10, 2025
+Política de Privacidad  
+Fecha de entrada en vigor: 10 de agosto de 2025
 
-This Privacy Policy describes how dotdigitalme ("I," "me," or "my") collects, uses, and discloses your information when you visit my website and use my services as a paid media and marketing automation freelancer.
+Esta Política de Privacidad describe cómo dotdigitalme ("yo", "me" o "mi") recopila, utiliza y divulga tu información cuando visitas mi sitio web y utilizas mis servicios como freelancer de medios pagados y automatización de marketing.
 
-1. Information I Collect
-I collect information to provide and improve my services, and to communicate with you. The types of personal information I may collect include:
+1. Información que recopilo  
+Recopilo información para proporcionar y mejorar mis servicios, y para comunicarme contigo. Los tipos de información personal que puedo recopilar incluyen:
 
-Contact Information: Name, email address, phone number, and business name when you contact me through a form, email, or other communication channels.
+Información de contacto: Nombre, dirección de correo electrónico, número de teléfono y nombre de la empresa cuando te comunicas conmigo a través de un formulario, correo electrónico u otros canales de comunicación.
 
-Website Usage Data: Information about your interactions with my website, such as your IP address, browser type, pages visited, time spent on the site, and referring URLs. This is collected through cookies and other tracking technologies.
+Datos de uso del sitio web: Información sobre tus interacciones con mi sitio web, como tu dirección IP, tipo de navegador, páginas visitadas, tiempo de permanencia en el sitio y URL de referencia. Esto se recopila mediante cookies y otras tecnologías de seguimiento.
 
-Client-Specific Data: During a project, I may process personal data on behalf of my clients. This data is governed by a separate Data Processing Agreement (DPA) between me and the client. I will only use this data to perform the contracted services and will not use it for my own purposes.
+Datos específicos de clientes: Durante un proyecto, puedo procesar datos personales en nombre de mis clientes. Estos datos se rigen por un Acuerdo de Procesamiento de Datos (DPA) separado entre el cliente y yo. Solo utilizaré estos datos para realizar los servicios contratados y no los usaré para mis propios fines.
 
-2. How I Use Your Information
-I use your information for the following purposes:
+2. Cómo utilizo tu información  
+Utilizo tu información para los siguientes fines:
 
-To Provide Services: To respond to your inquiries, provide information about my services, and fulfill my contractual obligations to you.
+Para prestar servicios: Para responder a tus consultas, proporcionarte información sobre mis servicios y cumplir con mis obligaciones contractuales contigo.
 
-To Improve My Website and Services: I analyze website usage data to understand how visitors interact with my site, which helps me improve its content and functionality.
+Para mejorar mi sitio web y servicios: Analizo los datos de uso del sitio web para comprender cómo los visitantes interactúan con mi sitio, lo que me ayuda a mejorar su contenido y funcionalidad.
 
-For Communication: To send you updates, newsletters, or other marketing communications that you have explicitly opted in to receive.
+Para comunicación: Para enviarte actualizaciones, boletines u otras comunicaciones de marketing a las que te hayas suscrito explícitamente.
 
-For Legal Compliance: To comply with legal obligations, resolve disputes, and enforce my agreements.
+Para cumplimiento legal: Para cumplir con obligaciones legales, resolver disputas y hacer cumplir mis acuerdos.
 
-3. How I Share Your Information
-I do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as described below:
+3. Cómo comparto tu información  
+No vendo, intercambio ni transfiero tu información personal a terceros sin tu consentimiento, excepto como se describe a continuación:
 
-Third-Party Service Providers: I may share your information with trusted third-party services that assist me in operating my website, conducting my business, or providing services to you (e.g., website hosting, email marketing platforms, analytics services). These third parties are obligated to keep your information confidential and are subject to their own privacy policies.
+Proveedores de servicios externos: Puedo compartir tu información con servicios externos de confianza que me ayudan a operar mi sitio web, gestionar mi negocio o prestar servicios para ti (por ejemplo, alojamiento web, plataformas de email marketing, servicios de análisis). Estos terceros están obligados a mantener tu información confidencial y están sujetos a sus propias políticas de privacidad.
 
-Legal Requirements: I may disclose your information if required to do so by law or in response to valid requests by public authorities.
+Requisitos legales: Puedo divulgar tu información si la ley lo exige o en respuesta a solicitudes válidas de autoridades públicas.
 
-4. Your Data Protection Rights (GDPR & CCPA)
-Depending on your location, you may have certain rights regarding your personal data:
+4. Tus derechos de protección de datos (GDPR y CCPA)  
+Dependiendo de tu ubicación, puedes tener ciertos derechos respecto a tus datos personales:
 
-Right to Access: You have the right to request a copy of the personal data I hold about you.
+Derecho de acceso: Tienes derecho a solicitar una copia de los datos personales que tengo sobre ti.
 
-Right to Rectification: You have the right to request that I correct any information you believe is inaccurate or incomplete.
+Derecho de rectificación: Tienes derecho a solicitar que corrija cualquier información que consideres inexacta o incompleta.
 
-Right to Erasure: You have the right to request that I erase your personal data under certain conditions.
+Derecho de supresión: Tienes derecho a solicitar que elimine tus datos personales en determinadas circunstancias.
 
-Right to Object: You have the right to object to my processing of your personal data.
+Derecho de oposición: Tienes derecho a oponerte al procesamiento de tus datos personales.
 
-Right to Withdraw Consent: Where I rely on your consent to process your personal data, you have the right to withdraw that consent at any time.
+Derecho a retirar el consentimiento: Cuando dependa de tu consentimiento para procesar tus datos personales, tienes derecho a retirarlo en cualquier momento.
 
-To exercise any of these rights, please contact me using the contact information provided below.
+Para ejercer cualquiera de estos derechos, por favor contáctame usando la información de contacto proporcionada a continuación.
 
-5. Contact Information
-If you have any questions about this Privacy Policy or my data practices, please contact me at:
+5. Información de contacto  
+Si tienes alguna pregunta sobre esta Política de Privacidad o mis prácticas de datos, por favor contáctame en:
 
-dotdigitalme
+dotdigitalme  
 dunia.digitalmarketer@gmail.com
 
-Cookie Policy
-Effective Date: August 10, 2025
+Política de Cookies  
+Fecha de entrada en vigor: 10 de agosto de 2025
 
-This Cookie Policy explains what cookies are, how I use them, and your choices regarding them.
+Esta Política de Cookies explica qué son las cookies, cómo las utilizo y tus opciones respecto a ellas.
 
-1. What are Cookies?
-Cookies are small text files that are placed on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work more efficiently and to provide information to the website owner.
+1. ¿Qué son las cookies?  
+Las cookies son pequeños archivos de texto que se colocan en tu dispositivo (ordenador, tableta o teléfono móvil) cuando visitas un sitio web. Se utilizan ampliamente para que los sitios web funcionen de manera más eficiente y para proporcionar información al propietario del sitio.
 
-2. How I Use Cookies
-I use cookies for a number of reasons, including:
+2. Cómo utilizo las cookies  
+Utilizo cookies por varias razones, incluyendo:
 
-Essential Cookies: These are necessary for the website to function correctly. They enable core functionality, such as navigation and access to secure areas of the website.
+Cookies esenciales: Son necesarias para que el sitio web funcione correctamente. Permiten funcionalidades básicas, como la navegación y el acceso a áreas seguras del sitio.
 
-Performance and Analytics Cookies: I use services like Google Analytics to understand how visitors use my website. These cookies help me collect anonymous information on page visits, time on site, and traffic sources, which helps me improve the website's performance.
+Cookies de rendimiento y análisis: Utilizo servicios como Google Analytics para entender cómo los visitantes usan mi sitio web. Estas cookies me ayudan a recopilar información anónima sobre visitas a páginas, tiempo en el sitio y fuentes de tráfico, lo que me ayuda a mejorar el rendimiento del sitio.
 
-Marketing and Advertising Cookies: As a paid media and marketing freelancer, I may use cookies to show you relevant advertisements on other websites. These cookies track your browsing habits and help me measure the effectiveness of my advertising campaigns.
+Cookies de marketing y publicidad: Como freelancer de medios pagados y marketing, puedo usar cookies para mostrarte anuncios relevantes en otros sitios web. Estas cookies rastrean tus hábitos de navegación y me ayudan a medir la efectividad de mis campañas publicitarias.
 
-3. Third-Party Cookies
-My website may use third-party services that also set cookies. For example, if I embed a video from YouTube or a social media feed, those services may place their own cookies on your device.
+3. Cookies de terceros  
+Mi sitio web puede utilizar servicios de terceros que también establecen cookies. Por ejemplo, si incrusto un video de YouTube o un feed de redes sociales, esos servicios pueden colocar sus propias cookies en tu dispositivo.
 
-4. Your Cookie Choices
-You can control and manage cookies in various ways. You have the right to decide whether to accept or reject cookies.
+4. Tus opciones sobre cookies  
+Puedes controlar y gestionar las cookies de varias maneras. Tienes derecho a decidir si aceptas o rechazas las cookies.
 
-Cookie Consent Tool: When you first visit my website, you will see a cookie banner that allows you to accept, decline, or customize your cookie preferences.
+Herramienta de consentimiento de cookies: Cuando visitas mi sitio web por primera vez, verás un banner de cookies que te permite aceptar, rechazar o personalizar tus preferencias de cookies.
 
-Browser Settings: Most web browsers allow you to manage your cookie preferences through their settings. You can usually remove or block cookies from your computer. Please note that if you disable essential cookies, the website may not function properly.
+Configuración del navegador: La mayoría de los navegadores web te permiten gestionar tus preferencias de cookies a través de su configuración. Normalmente puedes eliminar o bloquear las cookies de tu ordenador. Ten en cuenta que si desactivas las cookies esenciales, el sitio web puede no funcionar correctamente.
 
-For more information on how to manage cookies, you can visit websites like www.allaboutcookies.org.
+Para más información sobre cómo gestionar las cookies, puedes visitar sitios como www.allaboutcookies.org.
 
-5. Updates to This Policy
-I may update this Cookie Policy from time to time. The "Effective Date" at the top of this page indicates when the latest changes were made.
+5. Actualizaciones de esta política  
+Puedo actualizar esta Política de Cookies ocasionalmente. La "Fecha de entrada en vigor" en la parte superior de esta página indica cuándo se realizaron los últimos cambios.
+
