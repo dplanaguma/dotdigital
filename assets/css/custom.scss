@@ -1,0 +1,39 @@
+.row {
+  display: flex;
+  flex-wrap: wrap; /* Para que los bloques se envuelvan en la siguiente línea si no caben */
+  justify-content: space-between;
+  gap: 20px; /* Espacio entre los bloques */
+}
+
+.column {
+  flex: 1; /* Esto hace que todos los bloques tengan el mismo ancho */
+  max-width: 33.33%; /* Asegura que no ocupen más de 1/3 del contenedor */
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.service-block h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.service-block p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.service-block .price {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Media query para dispositivos móviles */
+@media (max-width: 768px) {
+  .column {
+    max-width: 100%;
+  }
+}
