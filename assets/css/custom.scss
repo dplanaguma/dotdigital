@@ -9,32 +9,31 @@
   flex: 1;
   max-width: 33.33%;
   padding: 20px;
-  /* CAMBIOS APLICADOS AQUÍ */
-  background-color: #000; /* Fondo negro */
-  border: 5px solid #fff; /* Borde blanco de 5px */
-  border-radius: 8px; /* Borde redondeado */
+  background-color: #000;
+  border: 5px solid #fff;
+  border-radius: 8px;
   text-align: center;
 }
 
 .service-block h3 {
   font-size: 1.5rem;
   margin-bottom: 10px;
-  /* Color del texto del título para que contraste con el fondo negro */
-  color: #fff; 
+  color: #fff;
 }
 
 .service-block p {
   font-size: 1rem;
-  /* Color del texto de la descripción para que contraste con el fondo negro */
   color: #ccc;
 }
 
 .service-block .price {
   font-size: 1.8rem;
   font-weight: bold;
-  /* Color del texto del precio para que contraste con el fondo negro */
   color: #fff;
   margin-top: 20px;
+  /* CAMBIOS APLICADOS AQUÍ */
+  border-top: 1px solid #fff; /* Crea una línea blanca en la parte superior */
+  padding-top: 15px; /* Añade un espacio entre la línea y el texto del precio */
 }
 
 /* Media query para dispositivos móviles */
