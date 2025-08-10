@@ -1,5 +1,7 @@
 ---
-Este archivo es una página única y es referenciada por el botón `Legal` en la página de inicio de portada.
+title: "Este archivo es una página única y es referenciada por el botón `Legal` en la página de inicio de portada."
+---
+
 
 Puede contener más o información adicional que la sección dedicada en la página principal.
 
