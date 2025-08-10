@@ -1,6 +1,6 @@
-{{ $headless := .Site.GetPage "/homepage" }}
-{{ $sections := $headless.Resources.ByType "page" }}
+{{ $sections := where .Site.RegularPages "Type" "in" (slice "page") }}
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
+{{ $sections := where $sections "Lang" "eq" .Site.Language.Lang }}
 
 <footer class="site-footer">
   <div class="inner">
