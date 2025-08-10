@@ -6,6 +6,10 @@ weight: 2
 header_menu: true
 ---
 
+## My Services
+
+Want to learn more about my services? See [dedicated page](services) with more details.
+
 <div style="display: flex; gap: 2rem; justify-content: space-between; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 220px; background: #f9f9f9; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 8px #eee;">
