@@ -24,3 +24,4 @@ header_menu: true
   {{< /column >}}
 {{< /columns >}}
 
+Want to learn more about my services? See [dedicated page](services) with more details.
