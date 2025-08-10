@@ -4,7 +4,7 @@
 
 <footer class="site-footer">
   <div class="inner">
-    {{ if ne .Site.Params.footer.showFooterLinks false }}
+    {{ if ne .Site.Params.footer.showFooterLinks true }}
     <section class="links">
       <ol>
       {{ range where $sections ".Params.footer_menu" "eq" true }}
