@@ -14,3 +14,4 @@ If the parameter `detailed_page_homepage_content` is set to false neither this s
 If `detailed_page_homepage_content` is set to true or is missing at all, the link, navigation menu and the content will be rendered. In that case this section might contain less or just summarized information compared to the single page referenced by the parameter `detailed_page_path`.
 
 Want to see more about the details? See [dedicated page](legal) with more details or hit the button 'Legal' on the cover page.
+> **Note:** This section will no longer appear in the homepage or rightside navigation. Instead, a link to the legal information will be available in the site footer. Please update your site's footer template to include a link to the [Legal](/legal/) page.
