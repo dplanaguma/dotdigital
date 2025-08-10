@@ -5,7 +5,7 @@ header_menu_title: "Legal"
 navigation_menu_title: "Legal stuff"
 header_menu: false
 detailed_page_path: /de/legal/
-detailed_page_homepage_content: true
+detailed_page_homepage_content: false
 ---
 The file **legal-brief.md** creates an internal link on the cover page without the leading icon.
 
