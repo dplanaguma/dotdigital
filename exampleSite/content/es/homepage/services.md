@@ -1,7 +1,5 @@
 ---
 
-description: "Entdecken Sie meine Beratungsangebote: Von individueller Beratung über praktische Umsetzung bis hin zur umfassenden Betreuung – wählen Sie das passende Paket für Ihren Erfolg."
-
 header_menu_title: "Servicios"
 navigation_menu_title: "Servicios"
 weight: 2
