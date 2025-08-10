@@ -1,5 +1,7 @@
 ---
-title: "Das biete ich an"
+
+description: "Entdecken Sie meine Beratungsangebote: Von individueller Beratung über praktische Umsetzung bis hin zur umfassenden Betreuung – wählen Sie das passende Paket für Ihren Erfolg."
+
 header_menu_title: "Angebot"
 navigation_menu_title: "Mein Angebot"
 weight: 2
@@ -11,10 +13,6 @@ header_menu: true
 <div style="flex: 1; min-width: 250px; border: 1px solid #eee; padding: 1.5rem; border-radius: 8px;">
 <h3>Consulting</h3>
 <p>Get expert advice tailored to your needs. This package is perfect if you want guidance and a clear strategy to move forward on your own. Includes a comprehensive assessment and actionable recommendations. Ideal for self-starters who need direction. <strong>100€/month</strong></p>
-</div>
-<div style="flex: 1; min-width: 250px; border: 1px solid #eee; padding: 1.5rem; border-radius: 8px;">
-<h3>Implementation Only</h3>
-<p>Already have a plan? Let me handle the technical implementation for you. I’ll take care of the setup and execution, so you can focus on your business. Best for those who know what they want but need expert hands to make it happen. <strong>150€/month</strong></p>
 </div>
 <div style="flex: 1; min-width: 250px; border: 1px solid #eee; padding: 1.5rem; border-radius: 8px;">
 <h3>Consulting + Implementation</h3>
