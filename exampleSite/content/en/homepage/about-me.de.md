@@ -1,32 +1,43 @@
----
-title: "Über mich (shared folder)"
+title: "Sobre Mí"
 weight: 3
-header_menu: false
+header_menu: true
 ---
 
-This demonstates localized variants `about-me.de.md` placed along the primary language content, such as `content/en`. Both localisation approaches (separate folder, suffixes in the same folder) can be used and mixed.
+<!-- 
+Ni el shortcode de figura incrustada ni el hook de Markdown pudieron renderizar la imagen desde el asset. 
+Tendrías que usar .Resources.GetMatch mediante un shortcode personalizado.
+![Dot Digital Me](/images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) 
+-->
+![Dot Digital Me](/images/about-me.png)
 
-#### Local content
 
-When localised page variants are placed along, images of other languages can't be used directly. You would need to use `.de`-suffixed copy of the image: `![Jane Doe](en-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.de.jpg)`
-Consider using assets instead.
+---
 
-Images from local content location can't be pipeline-processed.
+<div align="center">
+    <img src="/images/about-me.png" alt="Freelancer de Paid Media" style="border-radius: 50%; width: 160px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 1em;">
+</div>
 
-#### Static
+##### Experiencia en Paid Media
 
-Alternatively, images can be injected from `static/images`:
-![Jane Doe](/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-Note the leading `/` is required in this case.
-Images from static location can't be pipeline-processed and are always copied when publishing the site, even if not linked from any page.
+Como freelancer especializado en paid media orientado a resultados, me dedico a crear campañas publicitarias digitales de alto impacto que maximizan el ROI y aceleran el crecimiento empresarial. Aprovechando herramientas avanzadas impulsadas por IA y estrategias basadas en datos, ayudo a las marcas a destacar en mercados competitivos y a llegar a sus clientes ideales en Google Ads, Meta (Facebook e Instagram), LinkedIn y plataformas programáticas.
 
-#### Assets
+<ul>
+    <li><strong>Gestión de Campañas PPC:</strong> Experto en Google Ads, Bing Ads y paid social—optimizando presupuestos, segmentación y creatividad para el máximo rendimiento.</li>
+    <li><strong>Optimización con IA:</strong> Uso de machine learning y automatización para aumentar la relevancia de los anuncios, reducir costes y mejorar las tasas de conversión.</li>
+    <li><strong>Segmentación y Targeting de Audiencias:</strong> Segmentación avanzada utilizando datos propios, audiencias similares y retargeting para mayor engagement.</li>
+    <li><strong>Analítica de Rendimiento:</strong> Informes detallados y recomendaciones accionables usando Google Analytics, GA4 y dashboards personalizados.</li>
+    <li><strong>Estrategia Creativa:</strong> Diseño de anuncios y copys atractivos que conectan con tu público objetivo y generan clics.</li>
+    <li><strong>Optimización de Landing Pages:</strong> Mejora de la experiencia de usuario y tasas de conversión con tests A/B y mejores prácticas de CRO.</li>
+    <li><strong>Integración Multicanal:</strong> Integración fluida de paid media con CRM, e-commerce y plataformas de automatización de marketing.</li>
+    <li><strong>Consultoría y Formación:</strong> Capacitación de equipos en tendencias de paid media, estrategias de búsqueda con IA y novedades de plataformas (ChatGPT, Google Gemini).</li>
+</ul>
 
-Latest Hugo version supports injection from `assets` via natural Markdown notation, which empowers this approach for injecting images since pipeline processing (resizing etc) can be used. However, It only worked for me with the local test deployment, there were issues while deploying previews Netlify. Possible workaround would be to use custom shortcode to "touch" the image via [Resources.GetMatch](https://gohugo.io/functions/resources/getmatch/). I hope this gets fixed someday.
+<div style="margin-top: 1.5em; text-align: center;">
+    <span style="background: #f3f3f3; padding: 0.5em 1em; border-radius: 8px; font-size: 1.1em;">
+        ¿Listo para escalar tu negocio con soluciones expertas en paid media? ¡Conectemos y logremos resultados medibles!
+    </span>
+</div>
 
-![Broken image from assets](images/asset-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
-Historically, Linking image from `assets` folder worked only via Hugo-specific shortcode, there was [a discussion with suggestions](https://discourse.gohugo.io/t/how-to-show-images-on-post-pages-if-theyre-located-in-the-assets-folder/34276/14).
+----
 
-Note that using images form assets folder is the only way to apply pipeline processing, such as resizing, when building the site. Fore more details, read about [asset vs static difference](https://discourse.gohugo.io/t/difference-between-asset-and-static-folder/41203)
-
-Assets are only published if linked from a content page.
+Comprometido con mantenerme actualizado en las últimas tendencias y tecnologías de automatización de marketing. Excelentes habilidades de comunicación, colaboración y resolución de problemas.
