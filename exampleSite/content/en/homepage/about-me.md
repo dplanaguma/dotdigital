@@ -15,7 +15,7 @@ You would have to .Resouces.GetMatch via custom shortcode.
 ---
 
 <div align="center">
-    <img src="/images/static-happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg" alt="Paid Media Freelancer" style="border-radius: 50%; width: 160px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 1em;">
+    <img src="/images/about-me.png" alt="Paid Media Freelancer" style="border-radius: 50%; width: 160px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 1em;">
 </div>
 
 ##### Paid Media Expertise
