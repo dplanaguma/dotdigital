@@ -18,5 +18,4 @@ Benefit from consulting plus hands-on implementation to turn recommendations int
 Enjoy a complete service: consulting, implementation, and ongoing follow-up to ensure lasting success.
 
 Want to learn more about my services? See [dedicated page](services) with more details.
-[font-awesome-icons]: https://fontawesome.com/icons
-[hugo-shortcodes]: https://gohugo.io/content-management/shortcodes/
+
