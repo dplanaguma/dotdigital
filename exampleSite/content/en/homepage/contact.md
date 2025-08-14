@@ -3,11 +3,6 @@ title: "Contact"
 weight: 4
 header_menu: true
 ---
-
-{{<contact_list>}}
-
-Let us get in touch!
-
 <form
   action="https://formspree.io/f/xvgqyrzg"
   method="POST"
@@ -23,3 +18,8 @@ Let us get in touch!
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+
+{{<contact_list>}}
+
+Let us get in touch!
+
