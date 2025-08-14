@@ -4,9 +4,7 @@ weight: 4
 header_menu: true
 ---
 <form
-  action="https://formspree.io/f/xvgqyrzg"
-  method="POST"
->
+  action="https://formspree.io/f/xvgqyrzg" method="POST">
   <label>
     Your email:
     <input type="email" name="email">
